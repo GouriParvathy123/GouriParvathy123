@@ -22,8 +22,13 @@ I have 17 years of experience in classical dance, which has helped shape my appr
 > Check out my repositories on Bluetooth, Java, and side projects!
 
 
-<!-- GitHub Stats -->
-[![Gouri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)](https://github.com/GouriParvathy123)
+<details>
+  <summary>🖥️ Detailed Skills & Tools</summary>
+
+  - **Languages:** Python, Java, C++, C, Kotlin, MATLAB  
+  - **Frameworks & Tools:** Android Studio, Git, Docker, MQTT, BLE APIs  
+
+</details>
 
 <!-- Top Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=6&layout=compact&theme=radical)](https://github.com/GouriParvathy123)

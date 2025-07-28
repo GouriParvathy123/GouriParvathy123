@@ -1,5 +1,7 @@
 # Hi, I'm Gouri Parvathy! 👋
 
+![Banner](https://your-image-url.com/banner.png)
+
 🚀 Product R&D Intern @ Doppelio | LTIMindtree Intern ’23  
 📡 Bluetooth & BLE Enthusiast  
 💻 Python | Java | ECE Undergrad @ VIT '25, Vellore  
@@ -21,17 +23,16 @@ I have 17 years of experience in classical dance, which has helped shape my appr
 ## 📌 Pinned Projects
 > Check out my repositories on Bluetooth, Java, and side projects!
 
+---
 
-<details>
-  <summary>🖥️ Detailed Skills & Tools</summary>
+### 🖥️ Languages & Tools
 
-  - **Languages:** Python, Java, C++, C, Kotlin, MATLAB  
-  - **Frameworks & Tools:** Android Studio, Git, Docker, MQTT, BLE APIs  
-
-</details>
-
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=6&layout=compact&theme=radical)](https://github.com/GouriParvathy123)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 

@@ -14,7 +14,7 @@
 ---
 
 ### 💡 Fun Fact
-I have experience in classical dance, which has helped shape my appreciation for discipline, creativity, and collaborative work in every aspect of my journey.
+I have 17 years of experience in classical dance, which has helped shape my appreciation for discipline, creativity, and collaborative work in every aspect of my journey.
 
 ---
 

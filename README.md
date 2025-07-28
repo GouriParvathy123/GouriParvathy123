@@ -1,7 +1,7 @@
 # Hi, I'm Gouri Parvathy! 👋
 
 ![Pixel Art Banner](https://www.pinterest.com/pin/offices-studios-workspaces-in-2025--37295503159658029/)
-![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=GouriParvathy123&theme=journey&pixelate_avatar=true)
+
 
 
 🚀 Product R&D Intern @ Doppelio | LTIMindtree Intern ’23  

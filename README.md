@@ -1,9 +1,5 @@
 # Hi, I'm Gouri Parvathy! 👋
 
-![Pixel Art Banner](https://www.pinterest.com/pin/offices-studios-workspaces-in-2025--37295503159658029/)
-
-
-
 🚀 Product R&D Intern @ Doppelio | LTIMindtree Intern ’23  
 📡 Bluetooth & BLE Enthusiast  
 💻 Python | Java | ECE Undergrad @ VIT '25, Vellore  

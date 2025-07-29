@@ -52,26 +52,32 @@ Focused on Bluetooth Low Energy (BLE) application development. Independently han
 ### 🔹 Smart Crop Recommendation System (IoT)
 
 📍 VIT | 📅 Apr 2024
+
 Built an ESP32 + DHT11-based IoT system that suggests crops based on environmental conditions using ML.
+
 **Skills**: Python, Sensors, ESP32, Random Forest
 
 ### 🔹 IoT Anti-Theft Detector (Arduino)
 
 📍 VIT | 📅 Jul 2023
+
 Designed an intrusion detection system using Arduino, PIR sensor, HC-05 Bluetooth module. Triggered alarms and sent alerts on unauthorized movement.
+
 **Skills**: Arduino, Bluetooth, IoT, Circuit Design
 
 ### 🔹 Healthcare Management System
 
 📍 VIT | 📅 Sep 2021–Jan 2022
+
 Developed a system to manage hospital appointments, records, and billing using Python.
+
 **Skills**: Python, Team Collaboration, Microsoft Excel
 
 ---
 
 ## 🎭 Beyond Tech
 
-Trained in classical dance for 16+ years, I’ve led performances, managed cultural events, and currently serve as the **Cultural Coordinator, VIT Dance Club (2023–24)**.
+Trained in Bharathanatyam for 16+ years, I’ve led performances, managed cultural events, and currently serve as the **Cultural Coordinator, VIT Dance Club (2023–24)**.
 This experience shapes my leadership, discipline, and ability to thrive in dynamic environments.
 
 ---

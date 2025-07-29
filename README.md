@@ -41,15 +41,6 @@ Focused on Bluetooth Low Energy (BLE) application development. Independently han
 
 ---
 
-## 🧠 Technical Skills
-
-* **Languages**: Python, Java, C++, C, MATLAB, Kotlin
-* **Tools & Platforms**: Android Studio, Arduino, ESP32, 8051 Microcontroller
-* **Domains**: IoT, Embedded Systems, BLE, Wireless Communication, ML 
-* **Soft Skills**: Team Leadership, Event Management, Public Speaking
-
----
-
 ## 📂 Projects & Research
 
 ### 🔹 Smart Crop Recommendation System (IoT)
@@ -57,7 +48,6 @@ Focused on Bluetooth Low Energy (BLE) application development. Independently han
 📍 VIT | 📅 Apr 2024
 
 Built an ESP32 + DHT11-based IoT system that suggests crops based on environmental conditions using ML.
-
 **Skills**: Python, Sensors, ESP32, Random Forest
 
 ### 🔹 IoT Anti-Theft Detector (Arduino)
@@ -65,7 +55,6 @@ Built an ESP32 + DHT11-based IoT system that suggests crops based on environment
 📍 VIT | 📅 Jul 2023
 
 Designed an intrusion detection system using Arduino, PIR sensor, HC-05 Bluetooth module. Triggered alarms and sent alerts on unauthorized movement.
-
 **Skills**: Arduino, Bluetooth, IoT, Circuit Design
 
 ### 🔹 Healthcare Management System
@@ -73,7 +62,6 @@ Designed an intrusion detection system using Arduino, PIR sensor, HC-05 Bluetoot
 📍 VIT | 📅 Sep 2021–Jan 2022
 
 Developed a system to manage hospital appointments, records, and billing using Python.
-
 **Skills**: Python, Team Collaboration, Microsoft Excel
 
 ---

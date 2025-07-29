@@ -26,8 +26,8 @@ My journey blends technical curiosity with creative discipline — from writing 
 
 ### Product R\&D Intern @ Doppelio
 
-📍 Remote | 📅 2024
-Worked on product research and development tasks, contributing to real-time testing frameworks. Gained hands-on experience in simulation-based testing and improved debugging techniques.
+📍 Bangalore | 📅 2025
+Worked under Bluetooth virtualization projects, focusing on testing frameworks and simulation of BLE-based devices.
 
 ### Application Development Intern @ LTIMindtree
 
@@ -40,30 +40,18 @@ Focused on Bluetooth Low Energy (BLE) application development. Independently han
 
 * **Languages**: Python, Java, C++, C, MATLAB, Kotlin
 * **Tools & Platforms**: Android Studio, Arduino, ESP32, 8051 Microcontroller
-* **Domains**: IoT, Embedded Systems, BLE, Wireless Communication, ML (basics)
+* **Domains**: IoT, Embedded Systems, BLE, Wireless Communication, ML 
 * **Soft Skills**: Team Leadership, Event Management, Public Speaking
 
 ---
 
 ## 📂 Projects & Research
 
-### 🔹 Performance Analysis of Mixed RF/UWOC System
-
-📍 VIT | 📅 Sep–Nov 2024
-Analyzed the performance of a dual-hop marine communication system using RF and UWOC. The system improved reliability in underwater environments and has applications in oceanographic research and exploration.
-**Skills**: MATLAB, Communication Systems
-
-### 🔹 Water Level Monitoring using 555 Timer + 8051 Microcontroller
-
-📍 VIT | 📅 Oct–Nov 2024
-Developed a hardware-based water level monitor with alert display using 555 timer and 8051 MCU. Focused on circuit integration and real-time monitoring.
-**Skills**: Embedded Systems, Sensors, Breadboard Prototyping
-
 ### 🔹 Smart Crop Recommendation System (IoT)
 
 📍 VIT | 📅 Apr 2024
 Built an ESP32 + DHT11-based IoT system that suggests crops based on environmental conditions using ML.
-**Skills**: Python, Sensors, ESP32, ML Models
+**Skills**: Python, Sensors, ESP32, Random Forest
 
 ### 🔹 IoT Anti-Theft Detector (Arduino)
 

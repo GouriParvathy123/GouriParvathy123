@@ -31,13 +31,9 @@ I’m a B.Tech undergraduate at Vellore Institute of Technology (VIT), majoring 
 
 📍 Bangalore | 📅 2025
 
-Worked under Bluetooth virtualization projects, focusing on testing frameworks and simulation of BLE-based devices.
-
 ### Application Development Intern @ LTIMindtree
 
 📍 Bangalore | 📅 2023
-
-Focused on Bluetooth Low Energy (BLE) application development. Independently handled the design, development, and testing of BLE-enabled solutions. Gained a deep understanding of wireless systems and embedded platforms.
 
 ---
 

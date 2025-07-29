@@ -100,13 +100,20 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 ## 📬 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/your-hackerrank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gouri-parvathy-p-r-ece-student/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prgouriparvathy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/prgouriparvathy">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/gouriparvathy123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gouri-parvathy-p-r-ece-student/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232C8DFF.svg?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/prgouriparvathy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prgouriparvathy@gmail.com)
+
 
 
 

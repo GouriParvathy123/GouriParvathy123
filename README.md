@@ -10,8 +10,6 @@
 
 I’m a B.Tech undergraduate at Vellore Institute of Technology (VIT), majoring in Electronics and Communication Engineering. With a strong foundation in embedded systems, wireless communication, and software development, I’m passionate about solving real-world problems using technology.
 
-My journey blends technical curiosity with creative discipline — from writing efficient code to choreographing classical dance performances. I thrive on learning, building, and collaborating.
-
 ---
 
 ## 🎓 Academic Highlights
@@ -82,15 +80,16 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 
 ---
 
-## 🖥️ Languages & Tools
+## 🖥️ Languages I work with
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 

@@ -99,8 +99,6 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 
 ## 📬 Let's Connect!
 
-## 📬 Let's Connect!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/gouri-parvathy-p-r-ece-student/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
@@ -109,10 +107,9 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://www.hackerrank.com/profile/prgouriparvathy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/gouriparvathy123/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
 </p>
-

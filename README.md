@@ -17,23 +17,9 @@ I’m a B.Tech undergraduate at Vellore Institute of Technology (VIT), majoring 
 
 ## 🎓 Academic Highlights
 
-* 📚 **Top Scorer** in Class 10 (96.6%) and Class 12 (99%)
 * 🏫 VIT, Vellore | Electronics and Communication Engineering | Batch of 2025
 * 📈 Embracing continuous learning through hands-on projects and innovation
 
----
-
-## 💼 Professional Experience
-
-### Product R\&D Intern @ Doppelio
-
-📍 Bangalore | 📅 2025
-
-### Application Development Intern @ LTIMindtree
-
-📍 Bangalore | 📅 2023
-
----
 
 ## 📂 Projects & Research
 

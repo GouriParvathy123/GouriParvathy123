@@ -4,8 +4,6 @@
   <img src="banner github.png" alt="Banner Image"  />
 </p>
 
-
-🚀 Product R\&D Intern @ Doppelio | Former Intern @ LTIMindtree (2023)
 📡 Bluetooth & BLE Enthusiast
 💻 Python | Java | ECE Undergrad @ VIT '25, Vellore
 

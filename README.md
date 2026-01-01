@@ -72,9 +72,6 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 ## 📬 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gouri-parvathy-p-r-ece-student/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
   <a href="https://www.hackerrank.com/profile/prgouriparvathy" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank" />
   </a>

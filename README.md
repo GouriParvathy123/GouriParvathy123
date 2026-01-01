@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-I’m a B.Tech undergraduate at Vellore Institute of Technology (VIT), majoring in Electronics and Communication Engineering. With a strong foundation in embedded systems, wireless communication, and software development, I’m passionate about solving real-world problems using technology.
+I’m a B.Tech graduate at Vellore Institute of Technology (VIT), majoring in Electronics and Communication Engineering. With a strong foundation in embedded systems, wireless communication, and software development, I’m passionate about solving real-world problems using technology.
 
 ---
 
@@ -58,7 +58,6 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>

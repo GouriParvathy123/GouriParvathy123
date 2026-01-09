@@ -1,7 +1,6 @@
 # Hi, I'm Gouri Parvathy! 👋
 
 <p align="center">
-  <img src="banner github.png" alt="Banner Image"  />
   <img src="header" alt="Header Image" />
 </p>
 

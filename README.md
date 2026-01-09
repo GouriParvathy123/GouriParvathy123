@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="banner github.png" alt="Banner Image"  />
+  <img src="header.png" alt="Header Image" />
 </p>
 
 📡 Bluetooth & BLE Enthusiast
-💻 Python | Java | ECE Undergrad @ VIT '25, Vellore
+💻 Python | Java | ECE @ VIT '25, Vellore
 
 ---
 

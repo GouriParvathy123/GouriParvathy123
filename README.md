@@ -15,19 +15,6 @@ I’m a B.Tech graduate at Vellore Institute of Technology (VIT), majoring in El
 
 ---
 
-## 🎓 Academic Highlights
-
-* 🏫 VIT, Vellore | Electronics and Communication Engineering | Batch of 2025
-* 📈 Embracing continuous learning through hands-on projects and innovation
-
-
-## 🎭 Beyond Tech
-
-Trained in Bharathanatyam for 16+ years, I’ve led performances, managed cultural events, and currently serve as the **Cultural Coordinator, VIT Dance Club (2023–24)**.
-This experience shapes my leadership, discipline, and ability to thrive in dynamic environments.
-
----
-
 ## 🖥️ Languages and Tools I work with
 
 <p align="left">
@@ -46,11 +33,7 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
-
-  
 </p>
-
-
 ---
 
 ## 📬 Let's Connect!

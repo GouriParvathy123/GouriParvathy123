@@ -30,8 +30,6 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
 
 ## 🖥️ Languages and Tools I work with
 
-## 🖥️ Languages and Tools I Work With
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>

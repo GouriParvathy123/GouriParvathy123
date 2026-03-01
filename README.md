@@ -46,6 +46,9 @@ This experience shapes my leadership, discipline, and ability to thrive in dynam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg](https://www.deos-ag.com/en/blog/introduction-to-mqtt-the-messaging-protocol-for-the-internet-of-things" width="40" height="40" alt="MQTT"/>
+
+  
 </p>
 
 

@@ -4,14 +4,14 @@
   <img src="header" alt="Header Image" />
 </p>
 
-📡 Bluetooth & BLE Enthusiast
-💻 Python | Java | ECE @ VIT '25, Vellore
+🚀 Software Development Engineer
+📡 Intelligent Systems | BLE | Backend | IoT📡 Bluetooth & BLE Enthusiast | ECE @ VIT '25, Vellore
 
 ---
 
 ## 🌟 About Me
 
-I’m a B.Tech graduate at Vellore Institute of Technology (VIT), majoring in Electronics and Communication Engineering. With a strong foundation in embedded systems, wireless communication, and software development, I’m passionate about solving real-world problems using technology.
+I’m an Electronics and Communication Engineering graduate from Vellore Institute of Technology with a strong foundation in embedded systems, wireless communication, and software development. I enjoy building practical, scalable solutions that bridge hardware and intelligent software
 
 ---
 

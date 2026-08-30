@@ -48,7 +48,6 @@ I’m an Electronics and Communication Engineering graduate from Vellore Institu
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GouriParvathy123&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouriParvathy123&theme=radical" height="165"/>

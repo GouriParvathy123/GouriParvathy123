@@ -1,7 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy+%F0%9F%91%8B;SDE+%7C+BLE+%26+IoT+Engineer;ECE+%40+VIT+Vellore+'25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy" alt="Typing SVG" />
 </h1>
-
+<p align="center">
+  <img src="header" alt="Header Image" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GouriParvathy123&label=Profile+Views&color=7c3aed&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/gouriparvathy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -89,6 +91,3 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 
 ---
 
-<p align="center">
-  <i>"The best interface is no interface — until BLE makes it wireless."</i>
-</p>

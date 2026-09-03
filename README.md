@@ -4,11 +4,6 @@
 <p align="center">
   <img src="header" alt="Header Image" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GouriParvathy123&label=Profile+Views&color=7c3aed&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/gouriparvathy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:prgouriparvathy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
 
 ---
 

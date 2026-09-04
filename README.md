@@ -36,13 +36,6 @@ currently_exploring: GATT profiles, custom BLE services
 fun_fact: "Comfortable at the kernel interface level 🐧"
 ```
 
-- 🔵 Deep interest in **Bluetooth Low Energy (BLE)** protocol stacks and real-time device communication
-- 🛰️ Experienced in **IoT pipelines**, sensor integration, and edge-to-cloud architectures
-- 🐧 Linux-native developer — comfortable at the kernel interface level
-- 🤝 Always up for collaborating on open-source embedded or systems projects
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -125,5 +118,3 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
 </p>
-
-<p align="center"><i>⚡ Thanks for stopping by — always open to a chat about BLE, embedded systems, or anything hardware-meets-software!</i></p>

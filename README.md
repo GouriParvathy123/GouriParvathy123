@@ -117,19 +117,18 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&background=00000000&ring=b66fff&fire=b66fff&currStreakLabel=b66fff&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" width="49%" />
 </p>
-
----
 
 ### 🥧 Top Languages
 
 <p align="center">
-  <img src="./profile/top-langs.svg" width="45%"/>
+  <img src="./profile/top-langs.svg" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&background=000000&ring=b66fff&fire=b66fff&currStreakLabel=b66fff&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&background=0000000&ring=b66fff&fire=b66fff&currStreakLabel=b66fff&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" height="165"/>
 </p>
 
 ---

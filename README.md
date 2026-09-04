@@ -74,14 +74,6 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 
 ---
 
-### 🔭 What I'm Working On
-
-- 📡 Building BLE-based systems with real-time data pipelines
-- 🧩 Exploring **GATT profiles** and custom BLE service design
-- 🐳 Containerizing IoT backend services with Docker + Kubernetes
-- 📱 Android (Kotlin) apps for BLE device interaction
-
----
 
 ### 📌 Featured Projects
 
@@ -101,8 +93,6 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 <p align="center">
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 </p>
-
-> ⚠️ Shows up once you add the workflow below to this repo — GitHub then generates and updates this SVG automatically every day.
 
 ---
 

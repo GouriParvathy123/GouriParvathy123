@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b66fff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy+%F0%9F%91%8B;ECE+Grad+%7C+Embedded+%26+BLE+Enthusiast;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b66fff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy+%F0%9F%91%8B;Bridging+Hardware+%26+Software" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -129,18 +129,8 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&background=190425&ring=FF6FCB&fire=FF6FCB&currStreakLabel=FF6FCB&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&ring=FF6FCB&fire=FF6FCB&currStreakLabel=FF6FCB&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" height="165"/>
 </p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
-> ℹ️ This one still runs on a small Vercel-hosted project — no self-hosted Action alternative exists yet. If it ever breaks, it's safe to just delete this block; nothing else on the page depends on it.
 
 ---
 

@@ -27,6 +27,20 @@
 ### 🧠 About Me
 
 I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore (2025)** with a strong grip on embedded systems, wireless communication, and backend development. I enjoy building practical, scalable solutions that bridge the gap between hardware and intelligent software.
+
+```yaml
+name: Gouri Parvathy P R
+role: Embedded Systems | BLE | Backend
+based_in: India
+currently_exploring: GATT profiles, custom BLE services
+fun_fact: "Comfortable at the kernel interface level 🐧"
+```
+
+- 🔵 Deep interest in **Bluetooth Low Energy (BLE)** protocol stacks and real-time device communication
+- 🛰️ Experienced in **IoT pipelines**, sensor integration, and edge-to-cloud architectures
+- 🐧 Linux-native developer — comfortable at the kernel interface level
+- 🤝 Always up for collaborating on open-source embedded or systems projects
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -73,10 +87,10 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 
 <p align="left">
   <a href="https://github.com/GouriParvathy123/healthcare-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouriParvathy123&repo=healthcare-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+    <img src="./profile/pin-healthcare-management-system.svg" />
   </a>
   <a href="https://github.com/GouriParvathy123/PixelPlayer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouriParvathy123&repo=PixelPlayer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+    <img src="./profile/pin-pixelplayer.svg" />
   </a>
 </p>
 
@@ -95,7 +109,7 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 ### 📈 Contribution Line Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouriParvathy123&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/activity-graph.svg" width="95%"/>
 </p>
 
 ---
@@ -103,7 +117,7 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GouriParvathy123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="165"/>
+  <img src="./profile/stats.svg" height="165"/>
 </p>
 
 ---
@@ -111,7 +125,7 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 ### 🥧 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouriParvathy123&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=8" width="45%"/>
+  <img src="./profile/top-langs.svg" width="45%"/>
 </p>
 
 <p align="center">
@@ -121,6 +135,16 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+> ℹ️ This one still runs on a small Vercel-hosted project — no self-hosted Action alternative exists yet. If it ever breaks, it's safe to just delete this block; nothing else on the page depends on it.
 
 ---
 

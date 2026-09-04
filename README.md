@@ -96,17 +96,12 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 
 ---
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 </p>
 
-> ⚠️ Shows up once you add the workflow below to this repo — GitHub then generates and updates this SVG automatically every day.
-
 ---
-
-### 📈 Contribution Line Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/activity-graph.svg" width="95%"/>

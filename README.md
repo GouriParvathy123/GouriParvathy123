@@ -28,14 +28,6 @@
 
 I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore (2025)** with a strong grip on embedded systems, wireless communication, and backend development. I enjoy building practical, scalable solutions that bridge the gap between hardware and intelligent software.
 
-```yaml
-name: Gouri Parvathy P R
-role: Embedded Systems | BLE | Backend
-based_in: India
-currently_exploring: GATT profiles, custom BLE services
-fun_fact: "Comfortable at the kernel interface level 🐧"
-```
-
 ### 🛠️ Languages & Tools
 
 <p align="left">

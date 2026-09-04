@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy+%F0%9F%91%8B;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6FCB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy+%F0%9F%91%8B;ECE+Grad+%7C+Embedded+%26+BLE+Enthusiast;Bridging+Hardware+%26+Software" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GouriParvathy123&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GouriParvathy123&label=Profile%20Views&color=FF6FCB&style=for-the-badge" />
 </p>
 
 ---
@@ -96,12 +96,17 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 
 ---
 
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 </p>
 
+> ⚠️ Shows up once you add the workflow below to this repo — GitHub then generates and updates this SVG automatically every day.
+
 ---
+
+### 📈 Contribution Line Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/activity-graph.svg" width="95%"/>
@@ -124,11 +129,7 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=GouriParvathy123&hide_border=true&background=190425&ring=FF6FCB&fire=FF6FCB&currStreakLabel=FF6FCB&sideLabels=C792EA&currStreakNum=E0AAFF&sideNums=E0AAFF&dates=9D7CB0" height="165"/>
 </p>
 
 ---
@@ -136,7 +137,7 @@ fun_fact: "Comfortable at the kernel interface level 🐧"
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GouriParvathy123&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 > ℹ️ This one still runs on a small Vercel-hosted project — no self-hosted Action alternative exists yet. If it ever breaks, it's safe to just delete this block; nothing else on the page depends on it.

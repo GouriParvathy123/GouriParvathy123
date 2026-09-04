@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gouri+Parvathy" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="header" alt="Header Image" />
+  <img src="./banner-github.png" width="100%" />
 </p>
 
 ---

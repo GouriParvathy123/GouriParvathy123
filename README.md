@@ -57,8 +57,6 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="40" height="40" alt="Pandas" title="Pandas"/>
 </p>
 
----
-
 
 ### 📌 Featured Projects
 
@@ -71,7 +69,6 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
   </a>
 </p>
 
----
 
 ### 🐍 Contribution Snake
 
@@ -79,7 +76,6 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 </p>
 
----
 
 ### 📈 Contribution Line Graph
 
@@ -87,7 +83,6 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
   <img src="https://raw.githubusercontent.com/GouriParvathy123/GouriParvathy123/output/activity-graph.svg" width="95%"/>
 </p>
 
----
 
 ### 📊 GitHub Stats
 

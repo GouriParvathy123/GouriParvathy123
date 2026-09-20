@@ -92,16 +92,3 @@ I'm an **Electronics and Communication Engineering** graduate from **VIT Vellore
 </p>
 
 
-### 📬 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gouriparvathy" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/prgouriparvathy" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/u/gouriparvathy123/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
-  </a>
-</p>
